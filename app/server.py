@@ -14,7 +14,7 @@ export_file_name = 'export.pkl'
 
 # classes = ['black', 'grizzly', 'teddys']
 
-export_file_url = 'https://drive.google.com/file/d/1YXCkzM_KtUXLyMQcqajGLSX13kIwqclh/view?usp=sharing'
+export_file_url = ''https://drive.google.com/uc?export=download&id=1YXCkzM_KtUXLyMQcqajGLSX13kIwqclh''
 
 classes = ['audi', 'cadillac', 'ferrari', 'jaguar', 'lamborghini', 'maruti', 'mercedes', 'mustang', 'porsche', 'tata']
 path = Path(__file__).parent
