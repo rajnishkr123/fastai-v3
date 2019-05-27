@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/file/d/1Y1GHJfIaccQthxOGzIOzqXlvshImOS4y/view?usp=sharing'
+export_file_url = 'https://drive.google.com/file/d/1YXCkzM_KtUXLyMQcqajGLSX13kIwqclh/view?usp=sharing'
 export_file_name = 'Car_classifier_model.pkl'
 
 classes = ['audi', 'cadillac', 'ferrari', 'jaguar', 'lamborghini', 'maruti', 'mercedes', 'mustang', 'porsche', 'tata']
